@@ -8,9 +8,11 @@
 
 | 状态 | 地址 |
 |------|------|
-| 🟢 推荐 | [https://www.duboku.ai](https://www.duboku.ai) |
-| 🟢 备用 | [https://www.duboku.info](https://www.duboku.info) |
-| 🟢 镜像 | [https://www.kluju.com](https://www.kluju.com) |
+| 🟢 推荐 | [https://www.duboku.info](https://www.duboku.info) |
+| 🟢 备用 | [https://www.duboku.ai](https://www.duboku.ai) |
+| 🟢 镜像 | [https://www.dubo.cool](https://www.dubo.cool) |
+| 🟢 镜像 | [https://www.dboku.tv](https://www.dboku.tv) |
+
 
 ---
 
@@ -43,8 +45,7 @@
 | 网站名称 | 网址 | 特色 |
 |----------|------|------|
 | ✅ 陆剧网 | [https://luju.tw](https://luju.tw) | 极简界面，无广告 |
-| ✅ 小鸭影音 | [https://duckvideo.tw](https://duckvideo.tw) | 高清、界面整洁 |
-| ✅ 陸劇線上看 | [https://www.solomoto30.com](https://www.solomoto30.com) | 无广告清爽界面 |
+| ✅ 看陆剧 | [https://kluju.com](https://kluju.com) | 高清、界面整洁 |
 
 
 ---
@@ -66,7 +67,7 @@
 
 ---
 
-📅 更新时间：2025-08-01  
+📅 更新时间：2025-08-29  
 🔁 每周更新一次，或发现地址失效将立即更新。
 
 ---
