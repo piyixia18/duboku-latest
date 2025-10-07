@@ -46,7 +46,7 @@
 |----------|------|------|
 | ✅ 陆剧网 | [https://luju.tw](https://luju.tw) | 极简界面，无广告 |
 | ✅ 看陆剧 | [https://kluju.com](https://kluju.com) | 高清、界面整洁 |
-
+| ✅ Gimy 劇迷 | [https://gimy.so](https://gimy.so/) | 高清追劇首選 |
 
 ---
 
